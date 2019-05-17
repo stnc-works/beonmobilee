@@ -1,0 +1,272 @@
+[
+
+
+
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012299,
+    "name": "USB-C to USB-C",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Black",
+    "from": "USB-C",
+    "to": "USB-C",
+    "description": ""
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Adapter",
+    "barcode": 819393012305,
+    "name": "USB-C to Micro-USB",
+    "mfi": "",
+    "length": "",
+    "color": "Black",
+    "from": "USB-C",
+    "to": "Micro-USB",
+    "description": ""
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Charger",
+    "barcode": 819393012343,
+    "name": "Quick Charger",
+    "mfi": "",
+    "length": "",
+    "color": "Black",
+    "from": "",
+    "to": "",
+    "description": "Never run out of power.\nQuick Charger charges 80% of your battery in as quick as 35 minutes.\nSupports Qualcomm QuickCharge 3.0"
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Hub",
+    "barcode": 819393012398,
+    "name": "USB-C to 4 USB-A Hub",
+    "mfi": "",
+    "length": "",
+    "color": "White",
+    "from": "USB-C",
+    "to": "4 USB-A Ports",
+    "description": "Enchance your USB-C device.\nProvides 4 powered USB-A (3.0) ports."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012404,
+    "name": "Knotted Table-Top Charging Cable",
+    "mfi": "",
+    "length": "300cm",
+    "color": "Black Braided",
+    "from": "Lightning",
+    "to": "USB-A",
+    "description": "Weighted knot keeps phone secure on your bedside table.\nExtra long cable for easy usage during charging."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012411,
+    "name": "Lightning Cable",
+    "mfi": "",
+    "length": "120cm",
+    "color": "Gold",
+    "from": "Lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your Apple devices with lightning ports."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012428,
+    "name": "Lightning Cable",
+    "mfi": "",
+    "length": "15cm",
+    "color": "Silver Braided",
+    "from": "Lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your Apple devices with lightning ports."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Charger",
+    "barcode": 819393012435,
+    "name": "2-port Car Charger",
+    "mfi": "MFI",
+    "length": "120cm",
+    "color": "Black",
+    "from": "",
+    "to": "",
+    "description": "Charge your devices on the go with 2 ports.\nIncludes lightning and USB-C cables."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Adapter",
+    "barcode": 819393012893,
+    "name": "USB-C to VGA Adapter",
+    "mfi": "",
+    "length": "",
+    "color": "White",
+    "from": "USB-C",
+    "to": "VGA",
+    "description": "Easily connect your Macbook, Macbook Pro and Macbook Air(2018) with USB-C ports to displays and projectors."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Adapter",
+    "barcode": 819393012909,
+    "name": "USB-C to HDMI Adapter",
+    "mfi": "",
+    "length": "",
+    "color": "White",
+    "from": "USB-C",
+    "to": "HDMI",
+    "description": "Easily connect your Macbook, Macbook Pro and Macbook Air(2018) with USB-C ports to displays and projectors."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Hub",
+    "barcode": 819393012916,
+    "name": "USB-C MultiHub with HDMI",
+    "mfi": "",
+    "length": "",
+    "color": "White",
+    "from": "USB-C",
+    "to": "HDMI, USB-C and USB-A",
+    "description": "Enhance your Macbook, Macbook Pro and Macbook Air (2018) with USB-C ports with a display output and a USB-A port. \nIncludes pass-through USB-C port for power and other connections."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Hub",
+    "barcode": 819393012923,
+    "name": "USB-C MultiHub with VGA",
+    "mfi": "",
+    "length": "",
+    "color": "White",
+    "from": "USB-C",
+    "to": "VGA, USB-C and USB-A",
+    "description": "Enhance your Macbook, Macbook Pro and Macbook Air (2018) with USB-C ports with a display output and a USB-A port. \nIncludes pass-through USB-C port for power and other connections."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Hub",
+    "barcode": 819393012954,
+    "name": "USB-C Wing MultiHub",
+    "mfi": "",
+    "length": "",
+    "color": "Silver",
+    "from": "USB-C",
+    "to": "USB-C, 2 USB-A ports, SD and Micro-SD Card Readers",
+    "description": "Seamlessly enhance your Macbook, Macbook Pro and Macbook Air (2018) with USB-C ports with 2 USB-A ports, SD and Micro-SD card readers. \nIncludes pass-through USB-C port for power and other connections.\nSits flush with your laptop and matches with the color for maximum compatibility."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012961,
+    "name": "Lightning Cable",
+    "mfi": "",
+    "length": "15cm",
+    "color": "Black Braided",
+    "from": "Lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your Apple devices with lightning ports.\nTough nylon-braided construction.\nPerfect for no-tangle bag cable for your power-bank."
+  },
+
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012985,
+    "name": "Lightning Cable",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Black Braided3",
+    "from": "Lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your Apple devices with lightning ports.\nTough nylon-braided construction.\nT-shaped port makes sure there is no added strain on the cable connection for more durability.\nPerfect for charging and gaming in bed."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393012992,
+    "name": "USB-C to USB-A",
+    "mfi": "",
+    "length": "100cm",
+    "color": "White",
+    "from": "USB-C",
+    "to": "USB-A",
+    "description": "Charge and sync your devices with USB-C ports."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393013210,
+    "name": "Lightning Cable",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Black Braided",
+    "from": "Lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your Apple devices with lightning ports.\nTough nylon-braided construction."
+  },
+
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393013234,
+    "name": "Micro-USB Cable",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Black Braided",
+    "from": "Micro-USB",
+    "to": "USB-A",
+    "description": "Charge and sync your Android devices with Micro-USB ports.\nTough nylon-braided construction."
+  },
+
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393013258,
+    "name": "USB-C Cable",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Red Braided",
+    "from": "USB-C",
+    "to": "USB-A",
+    "description": "Charge and sync your devices with USB-C ports.\nTough nylon-braided construction."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393013265,
+    "name": "3 in 1 Charging Cable",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Black",
+    "from": "Micro-USB, USB-C and Lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your devices with USB-C, Micro-USB or lightning ports.\nTough construction.\nPerfect for traveling with multiple devices."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Cable",
+    "barcode": 819393013272,
+    "name": "2 in 1 Charging Cable",
+    "mfi": "",
+    "length": "100cm",
+    "color": "Black",
+    "from": "Micro-USB and lightning",
+    "to": "USB-A",
+    "description": "Charge and sync your devices with Micro-USB or lightning ports.\nTough construction.\nPerfect for traveling with multiple devices."
+  },
+  {
+    "brand": "Beon Mobile",
+    "categories": "Charger",
+    "barcode": 819393013289,
+    "name": "2-port Car Charger",
+    "mfi": "",
+    "length": "",
+    "color": "Black",
+    "from": "",
+    "to": "",
+    "description": "Charge your devices on the go with 2 ports."
+  }
+]
